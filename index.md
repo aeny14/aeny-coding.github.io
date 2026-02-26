@@ -1,3 +1,3 @@
 # Hello World!
 
-## Goals and coding
+## Goals
