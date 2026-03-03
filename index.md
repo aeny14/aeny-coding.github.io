@@ -3,6 +3,11 @@ AI-and-Emerging-Technology
 ## Emerging technology
   Natural Language Processing(NLP)
 
+## Previous Solutions
+  Natural Language Processing(NLP)
+
+## Emerging technology
+  Natural Language Processing(NLP)
  
 [flowers](https://drive.google.com/file/d/1VzRdR2L52q3Hh74bLuydfU88AW3QqNOi/view)
 
