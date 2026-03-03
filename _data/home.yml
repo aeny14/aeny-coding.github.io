@@ -16,3 +16,35 @@ project_entries:
   - title: Template 2
     url: template-2-post
     desc: This is an example project, template 2
+
+    # AI Emerging Technology Portfolio
+portfolio:
+  student_name: "Aeny Patel"
+  course: "AI and Emerging Technologies"
+  date: "2026-03-03"
+  card:
+    title: "AI and Emerging Technologies"
+    emerging_technology:
+      name: "Autonomous Vehicles"
+      description: "AI-powered self-driving cars that use sensors, cameras, and machine learning to navigate roads safely."
+    prompts:
+      a:
+        question: "What emerging technology did you choose? How is AI being used to support this technology?"
+        answer: "I chose Autonomous Vehicles. AI processes data from sensors, cameras, and GPS in real-time to detect obstacles, make driving decisions, and navigate traffic safely."
+      b:
+        question: "What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?"
+        answer: "Before AI, vehicles relied entirely on human drivers and basic driver-assist systems. AI is replacing these by enabling fully autonomous decision-making and hazard detection."
+      c:
+        question: "Briefly describe the type of AI being used for this technology (Machine Learning, Computer Vision, NLP, etc.)"
+        answer: "Machine Learning for traffic prediction, Computer Vision for obstacle detection, and Reinforcement Learning for decision-making in simulations."
+      d:
+        question: "How does the use of AI and this technology affect everyday life?"
+        answer: "AI in autonomous vehicles can reduce accidents, improve traffic efficiency, lower transportation costs, and provide mobility for those unable to drive."
+      e:
+        question: "Are there any concerns with using AI for this application?"
+        answer: "Safety risks in unexpected situations, ethical dilemmas in decision-making, job displacement for drivers, and potential security vulnerabilities."
+    references:
+      - "https://aiindex.stanford.edu/"
+      - "https://www.technologyreview.com/"
+      - "https://openai.com/research"
+      - "https://www.weforum.org/agenda/archive/artificial-intelligence/"
