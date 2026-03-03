@@ -1,15 +1,6 @@
-navbar_entries:
-  - title: website
-    url: https://www.cscc.edu/
-
-  - title: LinkedIn
-    url: https://www.linkedin.com/
-
-  - title: GitHub
-    url: https://github.com/
-    
-  - title: testmenu
-    url: https://github.com/
+name: Aeny
+Course: AI Emerging Technology
+Technology: Natural Processing Language(NLP)
 project_entries:
   - title: Template 1
     url: template-1-post
