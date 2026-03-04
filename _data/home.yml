@@ -1,3 +1,23 @@
+Portfolio:
+  Name: "Aeny Patel"
+
+Portfolio:
+ title: "AI & Emerging Technologies Portfolio"
+ Student_name: "Aeny Patel"
+ Date: "2026-03-03"
+
+Technology:
+ name: "Natural Language Processing"
+ Description: "NLP is a subfield of artificial intelligence (AI) that makes it possible for computers to understand, translate, and produce human speech and text."
+ ai_type:
+  - Meaching Learning
+  - Deep Learning
+  - Transformers
+  - Large Language Model
+
+Prompts:
+ a:
+  
 project_entries:
   - title: Template 1
     url: template-1-post
