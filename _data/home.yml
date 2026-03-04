@@ -15,19 +15,14 @@ Technology:
   - Transformers
   - Large Language Model
 
-Prompts:
- a: "What emerging technology did you choose? How is AI being used to support this technology?"
- answer: >
-  I chose Natural Processing Language(NLP).AI is applied to natural language processing (NLP) through deep learning and machine learning models
-  that evaluate speech and text. AI writing systems, voice assistants, chatbots, and translation tools are all controlled by NLP.
   
 project_entries:
-  - title: Template 1
+  - title: "What emerging technology did you choose? How is AI being used to support this technology?"
     url: template-1-post
-    desc: This is an example project, template 1
+    desc: "Description of which technology I choose. and how AI support that technology."
 
-  - title: Template 2
+  - title: "What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?"
     url: template-2-post
-    desc: This is an example project, template 2
+    desc: Description of the previous solution of NLP and how AI replace that technology.
 
     
