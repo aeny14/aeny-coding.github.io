@@ -58,7 +58,8 @@ People are able to get responses instantly without having to wait for a human co
  - Support for research
 
 ### References:
- - [IBM https://www.ibm.com/think/topics/natural-language-processing](https://www.ibm.com/think/topics/natural-language-processing)
+ - [IBM - https://www.ibm.com/think/topics/natural-language-processing](https://www.ibm.com/think/topics/natural-language-processing)
+ - [MIT- https://its.umich.edu/news/article/using-natural-language-processing-improve-everyday-life](https://its.umich.edu/news/article/using-natural-language-processing-improve-everyday-life)
 
 
 
