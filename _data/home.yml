@@ -16,7 +16,10 @@ Technology:
   - Large Language Model
 
 Prompts:
- a:
+ a: "What emerging technology did you choose? How is AI being used to support this technology?"
+ answer: >
+  I chose Natural Processing Language(NLP).AI is applied to natural language processing (NLP) through deep learning and machine learning models
+  that evaluate speech and text. AI writing systems, voice assistants, chatbots, and translation tools are all controlled by NLP.
   
 project_entries:
   - title: Template 1
