@@ -1,6 +1,6 @@
 Portfolio:
 
- title: "AI & Emerging Technologies Portfolio"
+ title: AI & Emerging Technologies Portfolio.<br>
  
  Student_name: "Aeny Patel"
  
