@@ -1,13 +1,19 @@
-AI-and-Emerging-Technology
+Portfolio:
+  Name: "Aeny Patel"
 
-## Emerging technology
-  Natural Language Processing(NLP)
+Portfolio:
+ title: "AI & Emerging Technologies Portfolio"
+ Student_name: "Aeny Patel"
+ Date: "2026-03-03"
 
-## Previous Solutions
-  Natural Language Processing(NLP)
-
-## Emerging technology
-  Natural Language Processing(NLP)
+Technology:
+ name: "Natural Language Processing"
+ Description: "NLP is a subfield of artificial intelligence (AI) that makes it possible for computers to understand, translate, and produce human speech and text."
+ ai_type:
+  - Meaching Learning
+  - Deep Learning
+  - Transformers
+  - Large Language Model
  
 [flowers](https://drive.google.com/file/d/1VzRdR2L52q3Hh74bLuydfU88AW3QqNOi/view)
 
