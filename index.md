@@ -21,7 +21,7 @@ Machine Learning (ML) and Deep Learning: AI uses large datasets to train models 
  2. AI that enables machines to produce coherent language, summarise, translate, and produce information that is indistinguishable from human writing is known as **generative AI (GenAI)**.
  3. **Speech Recognition:** AI translates spoken words into text, making voice-activated devices like GPS units, Apple's Siri, and Amazon's Alexa possible.
  4. **Contextual Understanding:** AI analyses a conversation's context rather than just its keywords, allowing chatbots and virtual assistants to deliver accurate, customised answers.
- 5. <iframe width="560" height="315" src="https://www.youtube.com/embed/CMrHM8a3hqw?si=uLQL-2yUNb_IBqKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CMrHM8a3hqw?si=uLQL-2yUNb_IBqKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### B. What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?
