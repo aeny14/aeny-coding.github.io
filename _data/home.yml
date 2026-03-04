@@ -16,13 +16,13 @@ Technology:
   - Large Language Model
 
   
-project_entries:
-  - title: "What emerging technology did you choose? How is AI being used to support this technology?"
-    url: template-1-post
-    desc: "Description of which technology I choose. and how AI support that technology."
+#project_entries:
+  #/* - title: "What emerging technology did you choose? How is AI being used to support this technology?"
+    #url: template-1-post
+    #desc: "Description of which technology I choose. and how AI support that technology."
 
-  - title: "What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?"
-    url: template-2-post
-    desc: Description of the previous solution of NLP and how AI replace that technology.
+  #- title: "What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?"
+    #url: template-2-post
+    #desc: Description of the previous solution of NLP and how AI replace that technology.
 
     
