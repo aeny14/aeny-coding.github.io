@@ -1,10 +1,3 @@
-Portfolio:
-
- title: AI & Emerging Technologies Portfolio.<br>
- 
- Student_name: "Aeny Patel"
- 
- Date: "2026-03-03"
 
 Technology: "Natural Language Processing"
 
