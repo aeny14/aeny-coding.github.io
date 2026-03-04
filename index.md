@@ -57,6 +57,7 @@ People are able to get responses instantly without having to wait for a human co
  - Writing tips
  - Personalised training
  - Support for research
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZMZvULBVio?si=Vwpiz_o6qqWg8G33" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### D. Are there any concerns with using AI for this application?
 1. **Bias and Discrimination:** NLP models trained on biased datasets have a chance to reinforce or enhance racial, gender, or political biases, producing unfair or discriminatory outcomes.
