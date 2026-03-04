@@ -21,6 +21,7 @@ Machine Learning (ML) and Deep Learning: AI uses large datasets to train models 
  2. AI that enables machines to produce coherent language, summarise, translate, and produce information that is indistinguishable from human writing is known as **generative AI (GenAI)**.
  3. **Speech Recognition:** AI translates spoken words into text, making voice-activated devices like GPS units, Apple's Siri, and Amazon's Alexa possible.
  4. **Contextual Understanding:** AI analyses a conversation's context rather than just its keywords, allowing chatbots and virtual assistants to deliver accurate, customised answers.
+ 5. <iframe width="560" height="315" src="https://www.youtube.com/embed/CMrHM8a3hqw?si=uLQL-2yUNb_IBqKT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### B. What previous solutions were being used in place of AI? How has AI replaced or will soon replace these solutions?
@@ -56,6 +57,14 @@ People are able to get responses instantly without having to wait for a human co
  - Writing tips
  - Personalised training
  - Support for research
+
+### D. Are there any concerns with using AI for this application?
+1. **Bias and Discrimination:** NLP models trained on biased datasets have a chance to reinforce or enhance racial, gender, or political biases, producing unfair or discriminatory outcomes.
+2. **Misinformation and illusions:** AI is capable of creating confident but completely false or fake information, which is particularly harmful in areas such as legal analysis or medical writing.
+3. **Data Security and Privacy:** When NLP models are asked for or trained using proprietary, sensitive, or personal data, privacy may be compromised.
+4. **Lack of Context Understanding:** NLP systems frequently struggle with confusion, sarcasm, idiomatic language, and variations, making it difficult for them to fully understand the context of human speech.
+5. **Ethical and Legal Risks:** Using content created by AI raises concerns about copied content, theft of copyright, and ownership. Inaccurate recommendations from AI, such those seen in chatbots, may also have legal effects.
+6. **Limited Transparency:** A lot of AI models operate as "black boxes," making it difficult to understand how they arrived at a specific result, which lowers responsibility and confidence.
 
 ### References:
  - [IBM - https://www.ibm.com/think/topics/natural-language-processing](https://www.ibm.com/think/topics/natural-language-processing)
