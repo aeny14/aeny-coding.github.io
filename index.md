@@ -9,7 +9,7 @@ NLP is a subfield of artificial intelligence (AI) that makes it possible for com
   4. Large Language Model
     
 ## impact: "Improves communication between humans and machines."
-##Prompts:
+
 ### a.What emerging technology did you choose? How is AI being used to support this technology?
 I chose Natural Language Processing. It is a technology that enables computers to understand, manipulate, and interpret human language. Large amounts of speech and text data from a variety of communication channels, including emails, text messages, social media newsfeeds, video, audio, and more, are present in organisations today.
    
@@ -36,7 +36,7 @@ Rule-Based/Chatbots: In the past, chatbots employed keyword matching and manual 
 2. Contextual Understanding: Unlike previous systems that analysed words separately, AI models like GPT understand a sentence's whole context.
 3. Automation of Creativity: AI is going beyond basic analysis to generate original content, such as summaries and articles, which was not feasible for conventional NLP.
 
-### How does the use of AI and this technology affect everyday life?
+### c. How does the use of AI and this technology affect everyday life?
 The way humans use technology in their daily lives has been greatly impacted by artificial intelligence (AI), particularly natural language processing (NLP). NLP makes it possible for computers to meaningfully understand, translate, and create human language.
 
 1. **Communication easier**
